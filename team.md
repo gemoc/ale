@@ -5,6 +5,7 @@ permalink: /team/
 order: 2
 ---
 
+* [Olivier Barais](https://olivier.barais.fr), Inria and Univ. Rennes 1, France
 * [Benoit Baudry](https://people.rennes.inria.fr/Benoit.Baudry/), Inria, France
 * **[Benoit Combemale](http://people.irisa.fr/Benoit.Combemale/), Inria and Univ. Rennes 1, France (Co-PI)**
 * [Manuel Leduc](#), Inria and Univ. Rennes 1, France
