@@ -9,6 +9,6 @@ order : 0
 ALE is an associate team between the [DiverSE team](#) at [Inria](#) and the [SWAT team](#) at [CWI](#). 
 
 ALE stands for **Agile Language Engineering**! 
-The team contribute to the field of Software Language Engineering, aiming to provide more agility to both language designers and language users.
+The team contributes to the field of Software Language Engineering, aiming to provide more agility to both language designers and language users.
 We explore extreme modularity constructs for the development of Domain-Specific Languages, 
 and advanced mechanisms for live modeling.
