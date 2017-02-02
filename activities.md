@@ -4,5 +4,3 @@ title: Activities
 permalink: /activities/
 order: 2
 ---
-
-timeline

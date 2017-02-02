@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to ALE!"
+title:  "Launch of the website for the ALE team!"
 date:   2017-01-31 11:15:07 +0100
 categories: kickoff
 ---
