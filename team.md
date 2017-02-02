@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-order: 2
+order: 5
 ---
 
 * [Olivier Barais](https://olivier.barais.fr), Inria and Univ. Rennes 1, France

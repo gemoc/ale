@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ALE team (Inria/CWI)
-email: benoit.combemale@irisa.fr
+email: ale@inria.fr
 description: Associate team Inria/CWI ALE   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bcombemale
-github_username:  combemale
+twitter_username: gemocinitiative
+github_username:  gemocinitiative
 
 # Build settings
 markdown: kramdown
