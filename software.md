@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-permalink: /software/
+permalink: software.html
 order: 4
 ---
 
