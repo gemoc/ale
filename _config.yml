@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ALE team (Inria/CWI)
 email: ale@inria.fr
-description: Associate team Inria/CWI ALE   
+description: ALE (Agile Language Engineering) is a research team between Inria/DiverSE and CWI/SWAT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gemocinitiative
@@ -24,8 +24,10 @@ github_username:  gemocinitiative
 # Build settings
 markdown: kramdown
 theme: minima
+
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md

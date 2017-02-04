@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objectives
-permalink: /objectives/
+permalink: objectives.html
 order: 1
 ---
 
