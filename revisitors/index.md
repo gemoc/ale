@@ -6,14 +6,13 @@ layout: default
 
 ## Overview
 
-The *Revisitors* are a new language implementation pattern that enables independent
+*Revisitor* is a new language implementation pattern that enables independent
 extensibility of the syntax and the semantics of metamodel-based xDSMLs with
-incremental compilation and without anticipation. This pattern is inspured by
-the [Object Algebra](https://dl.acm.org/citation.cfm?id=2367167) design pattern.
+incremental compilation and without anticipation.
 
-On top of the *Revisitors* we introduce *ALE*, a high-level specification language supporting modular extension of both syntax and semantics where the *Revisitor* pattern ensures separate compilation of language modules.
+On top of the *Revisitor* pattern, we introduce *ALE* (Action Language for Ecore): a high-level semantics specification language that supports modular extension of both syntax and semantics where the *Revisitor* pattern ensures separate compilation of language modules.
 
-*Ale* is tightly integrated with the [Eclipse Modeling Framework](https://www.eclipse.org/modeling/emf/) (EMF) and rely on the Ecore meta-language for the definition of the absatract syntax of the xDSMLs. Operation semantics is defined using *Ale* using *open class* definitions. *Ale* is bundle as a set of Eclipse plug-ins. Please referer to the [installation instructions](https://github.com/manuelleduc/ale-compiler/blob/master/Readme.md#installation) for more information.
+*ALE* is tightly integrated with the [Eclipse Modeling Framework](https://www.eclipse.org/modeling/emf/) (EMF) and rely on the Ecore meta-language for the definition of the abstract syntax of the xDSMLs. Operation semantics is defined using *ALE* and the *open class* mechanism. *ALE* is bundled as a set of Eclipse plug-ins. Please refer to the [installation instructions](https://github.com/manuelleduc/ale-compiler/blob/master/Readme.md#installation) for more information.
 
 ## Models'17
 
@@ -27,4 +26,5 @@ To face the proliferation of xDSMLs in many domains, it is important to provide 
 
 ## Examples and benchmarks
 
-All the examples of the paper as well as the implementations used in the benchmarks are available at [manuelleduc/ale-compiler-benchmarks](https://github.com/manuelleduc/ale-compiler-benchmarks).
+All examples of the paper as well as the implementations used in the benchmarks are available at [manuelleduc/ale-compiler-benchmarks](https://github.com/manuelleduc/ale-compiler-benchmarks).
+
