@@ -16,7 +16,7 @@
 title: ALE team (Inria/CWI)
 email: ale@inria.fr
 description: ALE (Agile Language Engineering) is a research team between Inria/DiverSE and CWI/SWAT
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ale" # the subpath of your site, e.g. /blog
 url: "https://gemoc.github.io/ale" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gemocinitiative
 github_username:  gemoc
