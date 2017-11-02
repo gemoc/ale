@@ -9,6 +9,8 @@ order: 2
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.20.1/vis.min.css" />
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.20.1/vis.min.js"></script>
 
+## Timeline 
+
 Here is the timeline of the meetings and visits organized in the context of ALE:
 
 <div id="visualization"></div>
@@ -40,11 +42,11 @@ Here is the timeline of the meetings and visits organized in the context of ALE:
 </script>
 
 
-## Plenary meetings: 
+## Plenary meetings
 
 -	March 27-28, 2017, Inria Rennes, FR (kickoff meeting)
 
-## Visits:
+## Visits
 
 -	April XX-XX, 2017: Visit of Manuel Leduc at CWI
 -	September XX-XX, 2017: Visit of Fabien Coulon at CWI
