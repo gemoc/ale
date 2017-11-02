@@ -44,7 +44,7 @@ Here is the timeline of the meetings and visits organized in the context of ALE:
 
 ## Plenary meetings
 
--	March 27-28, 2017, Inria Rennes, FR (kickoff meeting)
+-	March 27-28, 2017: Kickoff meeting at Inria Rennes, FR
 
 ## Visits
 
