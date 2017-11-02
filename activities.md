@@ -39,3 +39,14 @@ Here is the timeline of the meetings and visits organized in the context of ALE:
   var timeline = new vis.Timeline(container, items, groups, options);
 </script>
 
+
+## Plenary meetings: 
+
+-	March 27-28, 2017, Inria Rennes, FR (kickoff meeting)
+
+## Visits:
+
+-	April XX-XX, 2017: Visit of Manuel Leduc at CWI
+-	September XX-XX, 2017: Visit of Fabien Coulon at CWI
+- October 26-29, 2017: Visit of Tijs v. d. Storm at Inria
+- November 2-3, 2017: Visit of Benoit Combemale at CWI
