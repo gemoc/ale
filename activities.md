@@ -28,6 +28,7 @@ Here is the timeline of the meetings and visits organized in the context of ALE:
   var items = new vis.DataSet([
     {content: 'Team creation /<br>Website', start: '2017-01-01', type: 'point', group: 1},
     {content: 'Kick-off meeting', start: '2017-03-27', end: '2017-03-28', type: 'point', group: 1},
+    {content: 'ALE Seminar 2018', start: '2018-03-14', end: '2018-03-15', type: 'point', group: 1},
     {content: 'Visit Manuel Leduc<br>@ CWI<br>(3 weeks)', start: '2017-04-03', type: 'point', group: 2},
     {content: 'Visit Fabien Coulon<br>@ CWI<br>(1 week)', start: '2017-09-04', type: 'point', group: 2},
 	  {content: 'Visit Tijs van der Storm<br>@ Toulouse<br>(3 days)', start:'2017-09-27', type:'point', group: 2},
