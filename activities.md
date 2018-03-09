@@ -45,11 +45,14 @@ Here is the timeline of the meetings and visits organized in the context of ALE:
 
 ## Plenary meetings
 
--	March 27-28, 2017: Kickoff meeting at Inria Rennes, FR
+- March 27-28, 2017: Kickoff meeting at Inria Rennes, FR
+- March 14-15, 2018: Kickoff meeting at Univ. Toulouse, FR
 
 ## Visits
 
--	April 03-21, 2017: Visit of Manuel Leduc at CWI
--	September XX-XX, 2017: Visit of Fabien Coulon at CWI
+- April 03-21, 2017: Visit of Manuel Leduc at CWI
+- September 13-19, 2017: Visit of Fabien Coulon at CWI
 - October 26-29, 2017: Visit of Tijs v. d. Storm at Inria
 - November 2-3, 2017: Visit of Benoit Combemale at CWI
+- March 8-9, 2018: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
+- March 12-16, 2018: Visit of Thomas Degueule at Inria
