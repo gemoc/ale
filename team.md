@@ -14,9 +14,9 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 * [Fabien Coulon](http://www.doyoubuzz.com/fabien-coulon), Research Software Engineer, Inria and Univ. Rennes 1, France
 * [Thomas Degueule](http://people.irisa.fr/Thomas.Degueule/), Associate Research Scientist, CWI, The Netherlands
 * [Manuel Leduc](https://mleduc.xyz/), PhD Student, Inria and Univ. Rennes 1, France
-* [Riemer van Rozen](#), PhD Student, CWI, The Netherlands
-* [Ulyana Tikhonova](#), Post-doctoral researcher, CWI, The Netherlands
+* [Riemer van Rozen](https://www.cwi.nl/people/riemer-van-rozen), PhD Student, CWI, The Netherlands
+* [Ulyana Tikhonova](https://www.cwi.nl/people/ulyana-tikhonova), Post-doctoral researcher, CWI, The Netherlands
 * **[Tijs van der Storm](http://homepages.cwi.nl/~storm/), Professor, CWI, The Netherlands (Co-PI)**
-* [Pablo Inostroza Valdera](#), PhD Student, CWI, The Netherlands
+* [Pablo Inostroza Valdera](https://www.cwi.nl/people/pablo-inostroza-valdera), PhD Student, CWI, The Netherlands
 * [Jurgen Vinju](http://www.cwi.nl/~jurgenv), Professor, CWI, The Netherlands
 * [Didier Vojtisek](http://people.rennes.inria.fr/Didier.Vojtisek), Research Engineer, Inria, France
