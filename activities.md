@@ -17,7 +17,7 @@ order: 2
 
 ## Workshops
 
-- June 11, 2018: [workshop on live modeling](http://gemoc.org/ale/live18) at ENSEEIHT, FR ([webpage](http://gemoc.org/ale/live18))
+- June 11, 2018: [workshop on live modeling](http://gemoc.org/ale/live18) at ENSEEIHT, FR
 
 ## Visits
 

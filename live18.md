@@ -36,7 +36,7 @@ LIVE'18 is an [ALE](http://gemoc.org/ale/) Workshop focusing on Live Modeling. T
 
 16:00 - 18:00: **Discussions #2** (all)
 - Scenarios, and dynamic protocol for live modeling
-- Language development model and static/dynamic analysis
+- Language development model, and static/dynamic analysis
 
 ## Attending
 
