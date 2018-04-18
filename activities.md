@@ -9,44 +9,15 @@ order: 2
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.20.1/vis.min.css" />
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.20.1/vis.min.js"></script>
 
-## Timeline 
-
-Here is the timeline of the meetings and visits organized in the context of ALE:
-
-<div id="visualization"></div>
-
-<script type="text/javascript">
-  // DOM element where the Timeline will be attached
-  var container = document.getElementById('visualization');
-
-  // Create a DataSet (allows two way data-binding)
-  var groups = new vis.DataSet([
-    {id: 1, content: 'Meetings'},
-    {id: 2, content: 'Visits'}
-  ]);
-  
-  var items = new vis.DataSet([
-    {content: 'Team creation /<br>Website', start: '2017-01-01', type: 'point', group: 1},
-    {content: 'Kick-off meeting', start: '2017-03-27', end: '2017-03-28', type: 'point', group: 1},
-    {content: 'ALE Seminar 2018', start: '2018-03-14', end: '2018-03-15', type: 'point', group: 1},
-    {content: 'Visit Manuel Leduc<br>@ CWI<br>(3 weeks)', start: '2017-04-03', type: 'point', group: 2},
-    {content: 'Visit Fabien Coulon<br>@ CWI<br>(1 week)', start: '2017-09-04', type: 'point', group: 2},
-	  {content: 'Visit Tijs van der Storm<br>@ Toulouse<br>(3 days)', start:'2017-09-27', type:'point', group: 2},
-	  {content: 'Visit Benoit Combemale<br>&amp; Olivier Barais @ CWI<br>(2 days)', start:'2017-11-02', type: 'point', group: 2}
-  ]);
-
-  // Configuration for the Timeline
-  var options = {start: '2017-01-01', end: '2017-12-31'};
-
-  // Create a Timeline
-  var timeline = new vis.Timeline(container, items, groups, options);
-</script>
-<br/>
 
 ## Plenary meetings
 
-- March 27-28, 2017: Kickoff meeting at Inria Rennes, FR
-- March 14-15, 2018: ALE Seminar 2018 at ENSEEIHT, FR
+- March 27-28, 2017: Kickoff meeting at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/tree/master/meetings/17-03-kickoff))
+- March 14-15, 2018: ALE Seminar 2018 at ENSEEIHT, FR ([program](https://github.com/gemoc/ale-shared/tree/master/meetings/18-03-Seminar2018))
+
+## Workshops
+
+- June 11, 2018: [workshop on live modeling](http://gemoc.org/ale/live18) at ENSEEIHT, FR ([webpage](http://gemoc.org/ale/live18))
 
 ## Visits
 
