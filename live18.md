@@ -25,9 +25,9 @@ LIVE'18 is an [ALE](http://gemoc.org/ale/) Workshop focusing on Live Modeling. T
 
 10:45 - 11:15: coffee break
 
-11:15 - 11:45: **Experience report from PacMan experimentations** (Tanja)
+11:15 - 11:45: **Towards a conceptual model for live modeling/programming** (all, lead Benoit)
 
-11:45 - 12:15: **Towards a conceptual model for live modeling/programming** (all, lead Benoit)
+11:45 - 12:15: **Experience report from PacMan experimentations** (Tanja)
 
 12:15 - 12:30: **Organization of the afternoon discussion** (all)
 
