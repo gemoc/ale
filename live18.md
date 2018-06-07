@@ -17,15 +17,19 @@ LIVE'18 is an [ALE](http://gemoc.org/ale/) Workshop focusing on Live Modeling. T
 
 09:15 - 09:30: **Introduction of the workshop**: context and objectives (Benoit)
 
-09:30 - 10:00: **Reactive DSL with GEMOC** (Benoit)
+09:30 - 09:45: **Reminder on Reactive DSL with GEMOC** (Benoit)
 
-10:00 - 10:30: **Live programming with Rascal** (Tijs)
+09:45 - 10:15: **Live programming with Rascal** (Tijs)
 
-10:30 - 11:00: coffee break
+10:15 - 10:45: **TBA.** (Ulyana)
 
-11:00 - 12:00: **Live modeling: big picture and challenges** (all, lead Benoit and Tanja)
+10:45 - 11:15: coffee break
 
-12:00 - 12:30: **Organization of the afternoon discussion** (all)
+11:15 - 11:45: **Experience report from PacMan experimentations** (Tanja)
+
+11:45 - 12:15: **Towards a conceptual model for live modeling/programming** (all, lead Benoit)
+
+12:15 - 12:30: **Organization of the afternoon discussion** (all)
 
 12:30 - 14:00: lunch
 
