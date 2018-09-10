@@ -14,7 +14,7 @@ order: 2
 
 - March 27-28, 2017: Kickoff meeting at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/tree/master/meetings/17-03-kickoff))
 - March 14-15, 2018: ALE Seminar 2018 at ENSEEIHT, FR ([program](https://github.com/gemoc/ale-shared/tree/master/meetings/18-03-Seminar2018))
-- March 14-15, 2018: ALE Internal Workshop (CAMP'18) at Inria Rennes, FR ([program](http://gemoc.org/ale/camp18))
+- Sept 26-28, 2018: ALE Internal Workshop (CAMP'18) at Inria Rennes, FR ([program](http://gemoc.org/ale/camp18))
 
 ## Workshops
 
