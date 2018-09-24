@@ -11,7 +11,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * [Benoit Baudry](https://people.rennes.inria.fr/Benoit.Baudry/), Research Scientist, Inria, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Toulouse, France (Co-PI)**
-* [Fabien Coulon](http://www.doyoubuzz.com/fabien-coulon), PhD Student, Inria and Univ. Rennes 1, France
+* [Fabien Coulon](http://www.doyoubuzz.com/fabien-coulon), PhD Student (previously RSE in the team), Inria and Univ. Rennes 1, France
 * [Thomas Degueule](http://people.irisa.fr/Thomas.Degueule/), Associate Research Scientist, CWI, The Netherlands
 * [Manuel Leduc](https://mleduc.xyz/), PhD Student, Inria and Univ. Rennes 1, France
 * [Riemer van Rozen](https://www.cwi.nl/people/riemer-van-rozen), PhD Student, CWI, The Netherlands
