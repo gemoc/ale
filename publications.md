@@ -13,7 +13,7 @@ To appear.
 **Modular Language Composition for the Masses**  
 Manuel Leduc, Thomas Degueule, Benoit Combemale  
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
-[doi](https://dx.doi.org/10.1145/3276604.3276622) [preprint](https://hal.inria.fr/hal-01568169)
+[doi](https://dx.doi.org/10.1145/3276604.3276622) [preprint](https://hal.inria.fr/hal-01890446)
 
 **Shape-Diverse DSLs: Languages without Borders**  
 Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoit Combemale  
