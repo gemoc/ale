@@ -10,12 +10,12 @@ Ulyana Tikhonova, Jouke Stoel, Tijs van der Storm, Thomas Degueule
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
 To appear.
 
-**Modular Language Composition for the Masses**  
+**Modular Language Composition for the Masses (*SLE'18 best artifact*)**  
 Manuel Leduc, Thomas Degueule, Benoit Combemale  
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
 [doi](https://dx.doi.org/10.1145/3276604.3276622) [preprint](https://hal.inria.fr/hal-01890446)
 
-**Shape-Diverse DSLs: Languages without Borders**  
+**Shape-Diverse DSLs: Languages without Borders (*SLE'18 best vision paper*)**  
 Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoit Combemale  
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
 To appear.
