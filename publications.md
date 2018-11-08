@@ -18,7 +18,7 @@ In *Proceedings of the 11th International Conference on Software Language Engine
 **Shape-Diverse DSLs: Languages without Borders** (*SLE'18 best vision paper*)  
 Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoit Combemale  
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
-To appear.
+[doi](https://dx.doi.org/10.1145/3276604.3276623) [preprint](https://hal.archives-ouvertes.fr/hal-01889155)
 
 **Revisiting Visitors for Modular Extension of Executable DSMLs**  
 Manuel Leduc, Thomas Degueule, Benoit Combemale, Tijs van der Storm, Olivier Barais  
