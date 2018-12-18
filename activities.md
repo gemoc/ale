@@ -29,5 +29,6 @@ order: 2
 - November 2-3, 2017: Visit of Benoit Combemale at CWI
 - March 8-9, 2018: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
 - March 12-16, 2018: Visit of Thomas Degueule at Inria
+-	May 22-28, 2018: Visit of Manuel Leduc at CWI
 -	September 28, 2018: Visit of Thomas Degueule at Inria
 -	December 3-7, 2018: Visit of Manuel Leduc at CWI
