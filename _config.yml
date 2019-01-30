@@ -24,6 +24,8 @@ github_username:  gemoc
 # Build settings
 markdown: kramdown
 theme: minima
+kramdown:
+  parse_block_html: true
 
 gems:
   - jekyll-feed
