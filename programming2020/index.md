@@ -16,6 +16,14 @@ pre.highlight {
   white-space: pre-wrap;
   font-size: 13px;
 }
+
+.mjx-math, code {
+  font-size: 16px;
+}
+
+.wrapper {
+  max-width: calc(1024px - (30px));
+}
 </style>
 
 # Towards tailored compiled interpreters
