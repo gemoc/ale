@@ -5,7 +5,7 @@ permalink: publications.html
 order: 3
 ---
 
-**Contraint-based Run-time State Migration for Live Modeling**  (*[VERSEN](https://versen.nl/) Best Software Engineering Technology paper 2018*)
+**Contraint-based Run-time State Migration for Live Modeling**  (*[VERSEN](https://versen.nl/) Best Software Engineering Technology paper 2018*)  
 Ulyana Tikhonova, Jouke Stoel, Tijs van der Storm, Thomas Degueule  
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
 [doi](https://dx.doi.org/10.1145/3276604.3276611) [preprint](https://hal.archives-ouvertes.fr/hal-01896207)
