@@ -9,7 +9,7 @@ ALE gathers the following members of the [DiverSE team](http://diverse.irisa.fr/
 the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transformation) ([CWI](https://www.cwi.nl), NL).
 
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
-* [Benoit Baudry](https://people.rennes.inria.fr/Benoit.Baudry/), Research Scientist, Inria, France
+* [Benoit Baudry](https://people.rennes.inria.fr/Benoit.Baudry/), Senior Research Scientist, Inria, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Toulouse, France (Co-PI)**
 * [Fabien Coulon](http://www.doyoubuzz.com/fabien-coulon), PhD Student (previously RSE in the team), Inria and Univ. Rennes 1, France
 * [Thomas Degueule](http://people.irisa.fr/Thomas.Degueule/), Associate Research Scientist, CWI, The Netherlands
