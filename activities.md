@@ -21,7 +21,7 @@ order: 2
 - March 14-15, 2018: ALE Seminar 2018 at ENSEEIHT, FR ([program](https://github.com/gemoc/ale-shared/tree/master/meetings/18-03-Seminar2018))
 - Sept 26-28, 2018: ALE Internal Workshop (CAMP'18) at Inria Rennes, FR ([program](http://gemoc.org/ale/camp18))
 - March 11-12, 2019: ALE Seminar 2019 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/19-04-Seminar2019/))
-- Dec xx-yy, 2019: ALE Internal Workshop (CAMP'19) at Inria Rennes, FR ([program TBA.]())
+- Dec 17-18, 2019: ALE Internal Workshop (CAMP'19) at Inria Rennes, FR ([program TBA.]())
 
 ## Visits CWI & Inria
 
@@ -35,5 +35,5 @@ order: 2
 -	September 28, 2018: Visit of Thomas Degueule at Inria
 -	December 3-7, 2018: Visit of Manuel Leduc at CWI
 - March 20-22, 2019: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
--	December x-y, 209: Visit of Pierre Jeanjean at CWI
-- December x-y, 2019: Visit of Benoit Combemale at CWI
+-	December 8-13, 209: Visit of Pierre Jeanjean at CWI
+- December 9-10, 2019: Visit of Benoit Combemale at CWI
