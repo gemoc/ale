@@ -5,6 +5,11 @@ permalink: publications.html
 order: 3
 ---
 
+**From DSL Specification to Interactive Computer Programming Environment**
+Pierre Jeanjean, Benoit Combemale, Olivier Barais
+In *Proceedings of the 12th International Conference on Software Language Engineering* (SLE), 2019.
+[doi](https://doi.org/10.1145/3357766.3359540) [preprint](https://hal.inria.fr/hal-02307953)
+
 **Concern-Oriented Language Development (COLD): Fostering Reuse in Language Engineering**  
 Benoît Combemale, Jörg Kienzle, Gunter Mussbacher, et al.  
 In *Computer Languages, Systems & Structures* (COMLAN), 2018.  
