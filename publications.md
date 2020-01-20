@@ -6,7 +6,7 @@ order: 3
 ---
 
 **The Software Language Extension Problem**  
-Manuel Leduc, Thomas Degueule, Eric van Wyk, Benoit Combemale
+Manuel Leduc, Thomas Degueule, Eric van Wyk, Benoit Combemale  
 In International Journal on Software and Systems Modeling (SoSyM), 2019.  
 [doi](https://doi.org/10.1007/s10270-019-00772-7) [preprint](https://hal.inria.fr/hal-02399166/)
 
