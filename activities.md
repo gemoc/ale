@@ -38,3 +38,4 @@ order: 2
 - March 20-22, 2019: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
 -	December 8-13, 209: Visit of Pierre Jeanjean at CWI
 - December 9-10, 2019: Visit of Benoit Combemale at CWI
+- 2020: **COVID19**!
