@@ -5,6 +5,11 @@ permalink: publications.html
 order: 3
 ---
 
+**Purely Functional GLL Parsing**  
+L. Thomas van Binsbergen, Elizabeth Scott, Adrian Johnstone  
+In Journal of Computer Languages (JCOLA). 2020.  
+[doi](https://doi.org/10.1016/j.cola.2020.100945) [preprint](http://ltvanbinsbergen.nl/publications/jcola-fgll.pdf)
+
 **The Software Language Extension Problem**  
 Manuel Leduc, Thomas Degueule, Eric van Wyk, Benoit Combemale  
 In International Journal on Software and Systems Modeling (SoSyM), 2019.  
