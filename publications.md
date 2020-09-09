@@ -5,6 +5,21 @@ permalink: publications.html
 order: 3
 ---
 
+**A principled approach to REPL interpreters**  
+L. Thomas van Binsbergen, Mauricio Verano Merino, Pierre Jeanjean, Tijs van der Storm, Benoit Combemale, Olivier Barais  
+In *Proceedings of the Onward! (Papers) at SPLASH*, 2020.  
+[doi](#) [preprint](#)  
+
+**Block-Based Syntax from Context-Free Grammars**  
+Mauricio Verano Merino, Tijs van der Storm
+In *Proceedings of the 13th International Conference on Software Language Engineering* (SLE), 2020.  
+[doi](#) [preprint](#)  
+
+**Modular and distributed IDE**  
+Fabien Coulon, Alex Auvolat, Benoit Combemale, David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau
+In *Proceedings of the 13th International Conference on Software Language Engineering* (SLE), 2020.  
+[doi](#) [preprint](#)  
+
 **Purely Functional GLL Parsing**  
 L. Thomas van Binsbergen, Elizabeth Scott, Adrian Johnstone  
 In Journal of Computer Languages (JCOLA). 2020.  
