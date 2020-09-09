@@ -11,12 +11,12 @@ In *Proceedings of the Onward! (Papers) at SPLASH*, 2020.
 [doi](#) [preprint](#)  
 
 **Block-Based Syntax from Context-Free Grammars**  
-Mauricio Verano Merino, Tijs van der Storm
+Mauricio Verano Merino, Tijs van der Storm  
 In *Proceedings of the 13th International Conference on Software Language Engineering* (SLE), 2020.  
 [doi](#) [preprint](#)  
 
 **Modular and distributed IDE**  
-Fabien Coulon, Alex Auvolat, Benoit Combemale, David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau
+Fabien Coulon, Alex Auvolat, Benoit Combemale, David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau  
 In *Proceedings of the 13th International Conference on Software Language Engineering* (SLE), 2020.  
 [doi](#) [preprint](#)  
 
