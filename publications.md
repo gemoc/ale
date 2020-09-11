@@ -5,10 +5,15 @@ permalink: publications.html
 order: 3
 ---
 
+**eFLINT: a Domain-Specific Language for Executable Norm Specifications**  
+L. Thomas van Binsbergen, Lu-Chi Liu, Robert van Doesburg, and Tom van Engers  
+In *Proceedings of GPCE*, 2020.  
+[doi](#) [preprint](http://ltvanbinsbergen.nl/publications/eflint.pdf)
+
 **A principled approach to REPL interpreters**  
 L. Thomas van Binsbergen, Mauricio Verano Merino, Pierre Jeanjean, Tijs van der Storm, Benoit Combemale, Olivier Barais  
 In *Proceedings of the Onward! (Papers) at SPLASH*, 2020.  
-[doi](#) [preprint](#)  
+[doi](#) [preprint](http://ltvanbinsbergen.nl/publications/onward2020-repls.pdf)  
 
 **Block-Based Syntax from Context-Free Grammars**  
 Mauricio Verano Merino, Tijs van der Storm  
