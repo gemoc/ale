@@ -30,7 +30,7 @@ L. Thomas van Binsbergen, Elizabeth Scott, Adrian Johnstone
 In Journal of Computer Languages (JCOLA). 2020.  
 [doi](https://doi.org/10.1016/j.cola.2020.100945) [preprint](http://ltvanbinsbergen.nl/publications/jcola-fgll.pdf)
 
-**Bacatá: Notebooks for DSLs, Almost for Free**
+**Bacatá: Notebooks for DSLs, Almost for Free**  
 Mauricio Verano Merino, Jurgen Vinju, Tijs van der Storm,
 In *The Art, Science, and Engineering of Programming, Vol. 4, Issue 3, Article 11*, 2020.
 [doi](https://doi.org/10.22152/programming-journal.org/2020/4/11)
