@@ -32,7 +32,7 @@ In Journal of Computer Languages (JCOLA). 2020.
 
 **Bacatá: Notebooks for DSLs, Almost for Free**  
 Mauricio Verano Merino, Jurgen Vinju, Tijs van der Storm,
-In *The Art, Science, and Engineering of Programming, Vol. 4, Issue 3, Article 11*, 2020.
+In *The Art, Science, and Engineering of Programming, Vol. 4, Issue 3, Article 11*, 2020.  
 [doi](https://doi.org/10.22152/programming-journal.org/2020/4/11)
 
 **The Software Language Extension Problem**  
