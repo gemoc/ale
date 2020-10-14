@@ -23,7 +23,7 @@ In *Proceedings of the 13th International Conference on Software Language Engine
 **Modular and distributed IDE**  
 Fabien Coulon, Alex Auvolat, Benoit Combemale, David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau  
 In *Proceedings of the 13th International Conference on Software Language Engineering* (SLE), 2020.  
-[doi](#) [preprint](#)  
+[doi](#) [preprint](https://hal.archives-ouvertes.fr/hal-02964806v2)  
 
 **Purely Functional GLL Parsing**  
 L. Thomas van Binsbergen, Elizabeth Scott, Adrian Johnstone  
