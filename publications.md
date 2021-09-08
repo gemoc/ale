@@ -5,6 +5,11 @@ permalink: publications.html
 order: 3
 ---
 
+**A Generic Back-End for Exploratory Programming**  
+Damian Frölich and L. Thomas van Binsbergen  
+In *Proceedings of TFP*, 2021  
+[doi](https://doi.org/10.1007/978-3-030-83978-9_2)   
+
 **eFLINT: a Domain-Specific Language for Executable Norm Specifications**  
 L. Thomas van Binsbergen, Lu-Chi Liu, Robert van Doesburg, and Tom van Engers  
 In *Proceedings of GPCE*, 2020.  
