@@ -5,6 +5,24 @@ permalink: publications.html
 order: 3
 ---
 
+**SEALS: A framework for building Self-Adaptive Virtual Machines**  
+Gwendal Jouneaux, Olivier Barais, Benoît Combemale, Gunter Mussbacher
+In *Proceedings of International Conference on Software Language Engineering (SLE)*, 2021  
+[doi](https://hal.inria.fr/hal-03355253/)
+[preprint](https://hal.inria.fr/hal-03355253/)
+
+**Towards self-adaptable languages**  
+Gwendal Jouneaux, Olivier Barais, Benoît Combemale, Gunter Mussbacher
+In *International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! 2021)*, 2021  
+[doi](https://hal.inria.fr/hal-03318816/)
+[preprint](https://hal.inria.fr/hal-03318816/)
+
+**IDE as Code: Reifying Language Protocols as First-Class Citizens**  
+Pierre Jeanjean, Benoît Combemale, Olivier Barais
+In *14th Innovations in Software Engineering Conference (ISEC 2021)*, 2021  
+[doi](https://dl.acm.org/doi/10.1145/3452383.3452406)
+[preprint](https://hal.inria.fr/IRISA/hal-03107122v1)
+
 **Modeling with Mocking**  
 Jouke Stoel, Tijs van der Storm, Jurgen J. Vinju  
 In *14th IEEE Conference on Software Testing, Verification and Validation (ICST 2021)* 2021  
