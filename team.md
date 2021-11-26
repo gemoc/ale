@@ -14,7 +14,6 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 * [Fabien Coulon](http://www.doyoubuzz.com/fabien-coulon), PhD Student (previously RSE in the team), Inria and Univ. Rennes 1, France
 * [Pierre Jeanjean](#), PhD Student, Inria, France
 * [Djamel E. Khelladi](http://people.irisa.fr/Djamel-Eddine.Khelladi/), Research Scientist, CNRS, France
-* [Thomas van Binsbergen](http://www.ltvanbinsbergen.nl/), Post-doctoral researcher, CWI, The Netherlands
 * [Riemer van Rozen](https://www.cwi.nl/people/riemer-van-rozen), Post-doctoral researcher, CWI, The Netherlands
 * **[Tijs van der Storm](http://homepages.cwi.nl/~storm/), Professor, CWI, The Netherlands (Co-PI)**
 * [Jurgen Vinju](http://www.cwi.nl/~jurgenv), Professor, CWI, The Netherlands
@@ -23,6 +22,8 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 ### Associate members
 
 * [Thomas Degueule](https://tdegueul.github.io/), Research Scientist, CNRS, France
+* [Thomas van Binsbergen](http://www.ltvanbinsbergen.nl/), Post-doctoral researcher, Universiteit van Amsterdam, The Netherlands
+* [Mauricio Verano Merino](https://maveme.github.io/), Post-doctoral researcher.
 
 ### Alumni:
 
