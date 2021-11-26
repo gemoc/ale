@@ -5,6 +5,23 @@ permalink: publications.html
 order: 3
 ---
 
+**Modeling with Mocking**  
+Jouke Stoel, Tijs van der Storm, Jurgen J. Vinju  
+In *14th IEEE Conference on Software Testing, Verification and Validation (ICST 2021)* 2021  
+[doi](https://doi.org/10.1109/ICST49551.2021.00018)
+[preprint](https://research.rug.nl/files/192716315/Modeling_with_Mocking_1_.pdf)
+
+**What you Always Wanted to Know but Could not Find About Block-Based Environments** (*under review*)  
+Mauricio Verano Merino, Jurgen Vinju, Mark van den Brand. 2021  
+[preprint](https://arxiv.org/abs/2110.03073)
+
+**Getting Grammars into Shape for Block-based Editors** (*SLE'21 distinguished artifact award*)    
+Mauricio Verano Merino, Tom Beckmann, Tijs van der Storm, Robert Hirschfeld, Jurgen Vinju  
+In *Proceedings of International Conference on Software Language Engineering (SLE)*, 2021  
+[doi](https://doi.org/10.1145/3486608.3486908)
+[artifact](https://doi.org/10.5281/zenodo.5534113)
+[preprint](https://maveme.github.io/assets/pdfs/skogi-SLE21.pdf)
+
 **A Generic Back-End for Exploratory Programming**  
 Damian Frölich and L. Thomas van Binsbergen  
 In *Proceedings of TFP*, 2021  
