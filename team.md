@@ -22,7 +22,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 ### Associate members
 
 * [Thomas Degueule](https://tdegueul.github.io/), Research Scientist, CNRS, France
-* [Thomas van Binsbergen](http://www.ltvanbinsbergen.nl/), Post-doctoral researcher, Universiteit van Amsterdam, The Netherlands
+* [Thomas van Binsbergen](http://www.ltvanbinsbergen.nl/), Assistant Professor, Universiteit van Amsterdam, The Netherlands
 * [Mauricio Verano Merino](https://maveme.github.io/), Post-doctoral researcher.
 
 ### Alumni:
