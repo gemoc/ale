@@ -33,6 +33,12 @@ In *14th IEEE Conference on Software Testing, Verification and Validation (ICST 
 Mauricio Verano Merino, Jurgen Vinju, Mark van den Brand. 2021  
 [preprint](https://arxiv.org/abs/2110.03073)
 
+**Projecting Textual Languages** 
+Mauricio Verano Merino, Jur Bartels, Mark van den Brand, Tijs van der Storm, Eugen Schindler. 
+In *Domain-Specific Languages in Practice: with JetBrains MPS*, 2021  
+[doi](http://doi.org/10.1007/978-3-030-73758-0_7) 
+[preprint](#)
+
 **Getting Grammars into Shape for Block-based Editors** (*SLE'21 distinguished artifact award*)    
 Mauricio Verano Merino, Tom Beckmann, Tijs van der Storm, Robert Hirschfeld, Jurgen Vinju  
 In *Proceedings of International Conference on Software Language Engineering (SLE)*, 2021  
