@@ -45,6 +45,12 @@ Damian Frölich and L. Thomas van Binsbergen
 In *Proceedings of TFP*, 2021  
 [doi](https://doi.org/10.1007/978-3-030-83978-9_2)   
 
+**Automatic generation of Truffle-based interpreters for Domain-Specific Languages**  
+Manuel Leduc, Gwendal Jouneaux, Thomas Degueule, Gurvan Le Guernic, Olivier Barais, Benoit Combemale  
+In *Journal of Object Technology*, 2020.  
+[doi](http://dx.doi.org/10.5381/jot.2020.19.2.a1)
+[preprint](https://hal.inria.fr/hal-02395867v2/document)
+
 **eFLINT: a Domain-Specific Language for Executable Norm Specifications**  
 L. Thomas van Binsbergen, Lu-Chi Liu, Robert van Doesburg, and Tom van Engers  
 In *Proceedings of GPCE*, 2020.  
@@ -98,7 +104,7 @@ In *Proceedings of the 11th International Conference on Software Language Engine
 **Modular Language Composition for the Masses** (*SLE'18 best artifact*)  
 Manuel Leduc, Thomas Degueule, Benoit Combemale  
 In *Proceedings of the 11th International Conference on Software Language Engineering* (SLE), 2018.  
-[doi](https://dx.doi.org/10.1145/3276604.3276622) [preprint](https://hal.inria.fr/hal-01890446) 
+[doi](https://dx.doi.org/10.1145/3276604.3276622) [preprint](https://hal.inria.fr/hal-01890446)
 
 **Shape-Diverse DSLs: Languages without Borders** (*SLE'18 best vision paper*)  
 Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoit Combemale  
