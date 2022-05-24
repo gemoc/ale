@@ -17,6 +17,7 @@ order: 2
 
 ## Plenary ALE meetings
 
+- May 23-25, 2022: ALE Seminar 2022 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/22-05-meetInRennes))
 - March 10, 2021: **Virtual** ALE Seminar 2021 ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/21-03-Seminar2021/))
 - August 27, 2020: **Virtual** ALE Seminar 2020 ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/20-08-Seminar2020/))
 - Dec 17-18, 2019: ALE Internal Workshop (CAMP'19) at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/19-12-meetInRennes))
