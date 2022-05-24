@@ -11,6 +11,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France (Co-PI)**
 * [Pierre Jeanjean](https://pjeanjean.github.io/), PhD Student, Inria, France
+* [Gwendal Jouneaux](https://www.gwendal-jouneaux.fr/), PhD Student, Inria, France
 * [Djamel E. Khelladi](http://people.irisa.fr/Djamel-Eddine.Khelladi/), Research Scientist, CNRS, France
 * [Riemer van Rozen](https://www.cwi.nl/people/riemer-van-rozen), Post-doctoral researcher, CWI, The Netherlands
 * **[Tijs van der Storm](http://homepages.cwi.nl/~storm/), Professor, CWI, The Netherlands (Co-PI)**
@@ -19,7 +20,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 
 ### Associate members
 
-* [Erwan Bousse]([https://tdegueul.github.io/](https://bousse-e.univ-nantes.io/)), Associate Professor, Nantes Université, France
+* [Erwan Bousse](https://bousse-e.univ-nantes.io/)), Associate Professor, Nantes Université, France
 * [Thomas Degueule](https://tdegueul.github.io/), Research Scientist, CNRS, France
 * [Thomas van Binsbergen](http://www.ltvanbinsbergen.nl/), Assistant Professor, Universiteit van Amsterdam, The Netherlands
 * [Mauricio Verano Merino](https://maveme.github.io/), Post-doctoral researcher.
