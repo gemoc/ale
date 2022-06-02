@@ -20,10 +20,10 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 
 ### Associate members
 
-* [Erwan Bousse](https://bousse-e.univ-nantes.io/)), Associate Professor, Nantes Université, France
+* [Erwan Bousse](https://bousse-e.univ-nantes.io/), Associate Professor, Nantes Université, France
 * [Thomas Degueule](https://tdegueul.github.io/), Research Scientist, CNRS, France
 * [Thomas van Binsbergen](http://www.ltvanbinsbergen.nl/), Assistant Professor, Universiteit van Amsterdam, The Netherlands
-* [Mauricio Verano Merino](https://maveme.github.io/), Post-doctoral researcher.
+* [Mauricio Verano Merino](https://maveme.github.io/), Assistant Professor, Vrije Universiteit Amsterdam, The Netherlands
 
 ### Alumni:
 
