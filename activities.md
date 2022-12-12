@@ -28,6 +28,7 @@ order: 2
 
 ## Visits CWI & Inria
 
+-	October 16-21, 209: Visit of Gwendal Jouneaux at CWI
 - 2021: **COVID19**!
 - 2020: **COVID19**!
 - December 9-10, 2019: Visit of Benoit Combemale at CWI
