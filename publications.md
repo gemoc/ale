@@ -5,9 +5,9 @@ permalink: publications.html
 order: 3
 ---
 
-**Gradual Grammars: Syntax in Levels and Locales**
-Tijs van der Storm, Felienne Hermans
-In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022
+**Gradual Grammars: Syntax in Levels and Locales**  
+Tijs van der Storm, Felienne Hermans  
+In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022  
 [doi](https://doi.org/10.1145/3567512.3567524)
 [preprint](https://www.cwi.nl/~storm/publications/gradual-grammars.pdf)
 
