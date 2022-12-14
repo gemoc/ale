@@ -5,6 +5,30 @@ permalink: publications.html
 order: 3
 ---
 
+**Workbench for Creating Block-Based Environments**  
+Mauricio Verano Merino, Koen van Wijk
+In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022  
+[doi](https://doi.org/10.1145/3567512.3567518)
+[preprint](https://maveme.github.io/assets/pdfs/blocklybench.pdf)
+
+**Suppose You Had Blocks within a Notebook**  
+Mauricio Verano Merino, Juan Pablo Sáenz
+In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2022  
+[doi](https://doi.org/10.1145/3563836.3568728)
+[preprint](https://maveme.github.io/assets/pdfs/blocks-nb.pdf)
+
+**A Language-Parametric Approach to Exploratory Programming Environments**  
+L. Thomas van Binsbergen, Damian Frölich, Mauricio Verano Merino, Joey Lai, Pierre Jeanjean, Tijs van der Storm, Benoit Combemale, Olivier Barais 
+In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022  
+[doi](https://doi.org/10.1145/3567512.3567527)
+[preprint](https://maveme.github.io/assets/pdfs/exploratory-programming.pdf)
+
+**Making the Invisible Visible in Computational Notebooks**  
+Mauricio Verano Merino, L. Thomas van Binsbergen, Mazyar Seraj
+In *Proceedings of the IEEE Symposium on Visual Languages and Human Centric Computing (VL/HCC)*, 2022  
+[doi](https://doi.org/10.1109/VL/HCC53370.2022.9833148)
+[preprint](https://maveme.github.io/assets/pdfs/invisible2022.pdf)
+
 **Gradual Grammars: Syntax in Levels and Locales**  
 Tijs van der Storm, Felienne Hermans  
 In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022  
