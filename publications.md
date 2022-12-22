@@ -5,6 +5,12 @@ permalink: publications.html
 order: 3
 ---
 
+**iCoLa: A Compositional Meta-language with Support for Incremental Language Development**  
+Damian Frölich, L. Thomas van Binsbergen
+In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022 
+[doi](https://doi.org/10.1145/3567512.3567529)
+[preprint](http://ltvanbinsbergen.nl/files/papers/sle22-exp.pdf)
+
 **Workbench for Creating Block-Based Environments**  
 Mauricio Verano Merino, Koen van Wijk
 In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2022  
