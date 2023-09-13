@@ -4,6 +4,15 @@ title: Publications
 permalink: publications.html
 order: 3
 ---
+**Cascade: A Meta-Language for Change, Cause and Effect**
+Riemer van Rozen
+In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2023
+[preprint](https://github.com/vrozen/Cascade/blob/main/Doc/Cascade_SLE2023.pdf)
+
+**Game Engine Wizardry for Programming Mischief**
+Riemer van Rozen
+In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2023
+[preprint](https://github.com/vrozen/Cascade/blob/main/Doc/PAINT2023.pdf)
 
 **iCoLa: A Compositional Meta-language with Support for Incremental Language Development**  
 Damian Frölich, L. Thomas van Binsbergen
