@@ -4,6 +4,11 @@ title: Publications
 permalink: publications.html
 order: 3
 ---
+**Adaptive Structural Operational Semantics**
+Gwendal Jouneaux, Damian Frölich, Olivier Barais, Benoit Combemale, Gurvan Le Guernic, Gunter Mussbacher, L. Thomas van Binsbergen
+In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2023
+[preprint](https://inria.hal.science/hal-04252577v1)
+
 **Cascade: A Meta-Language for Change, Cause and Effect**
 Riemer van Rozen
 In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2023
