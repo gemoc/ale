@@ -17,6 +17,7 @@ order: 2
 
 ## Plenary ALE meetings
 
+- December 18-19, 2023: ALE Seminar 2023 at Inria Rennes, FR ([program](#))
 - May 23-25, 2022: ALE Seminar 2022 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/22-05-meetInRennes))
 - March 10, 2021: **Virtual** ALE Seminar 2021 ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/21-03-Seminar2021/))
 - August 27, 2020: **Virtual** ALE Seminar 2020 ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/20-08-Seminar2020/))
@@ -28,11 +29,13 @@ order: 2
 
 ## Visits CWI & Inria
 
--	October 16-21, 209: Visit of Gwendal Jouneaux at CWI
+-	November 13-15, 2023: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
+-	September 12-14, 2023: Visit of Benoit Combemale at CWI
+-	October 16-21, 2019: Visit of Gwendal Jouneaux at CWI
 - 2021: **COVID19**!
 - 2020: **COVID19**!
 - December 9-10, 2019: Visit of Benoit Combemale at CWI
--	December 8-13, 209: Visit of Pierre Jeanjean at CWI
+-	December 8-13, 2019: Visit of Pierre Jeanjean at CWI
 - March 20-22, 2019: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
 -	December 3-7, 2018: Visit of Manuel Leduc at CWI
 -	September 28, 2018: Visit of Thomas Degueule at Inria
