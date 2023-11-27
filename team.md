@@ -10,9 +10,10 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France (Co-PI)**
-* [Pierre Jeanjean](https://pjeanjean.github.io/), PhD Student, Inria, France
+* [Théo Giraudet](#), PhD Student, Obeo and Univ. Rennes 1, France
 * [Gwendal Jouneaux](https://www.gwendal-jouneaux.fr/), PhD Student, Inria, France
 * [Djamel E. Khelladi](http://people.irisa.fr/Djamel-Eddine.Khelladi/), Research Scientist, CNRS, France
+* [Chiara Relevat](#), PhD Student, Inria and Univ. Rennes 1, France
 * [Riemer van Rozen](https://www.cwi.nl/people/riemer-van-rozen), Post-doctoral researcher, CWI, The Netherlands
 * **[Tijs van der Storm](http://homepages.cwi.nl/~storm/), Professor, CWI, The Netherlands (Co-PI)**
 * [Jurgen Vinju](http://www.cwi.nl/~jurgenv), Professor, CWI, The Netherlands
@@ -27,6 +28,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 
 ### Alumni:
 
+* [Pierre Jeanjean](https://pjeanjean.github.io/), PhD Student, Inria, France
 * [Fabien Coulon](http://www.doyoubuzz.com/fabien-coulon), PhD Student (previously RSE in the team), Inria and Univ. Rennes 1, France
 * [Manuel Leduc](https://mleduc.xyz/), PhD Student, Inria and Univ. Rennes 1, France
 * [Ulyana Tikhonova](https://www.cwi.nl/people/ulyana-tikhonova), Post-doctoral researcher, CWI, The Netherlands
