@@ -8,7 +8,9 @@ order: 5
 ALE gathers the following members of the [DiverSE team](http://diverse.irisa.fr/) ([Inria](https://www.inria.fr/), FR) and 
 the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transformation) ([CWI](https://www.cwi.nl), NL).
 
+* [Mathieu Acher](https://mathieuacher.com/)), Professor, Inria and INSA Rennes, France
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
+* [Arnaud Blouin](https://people.irisa.fr/Arnaud.Blouin/), Ass. Professor, Inria and INSA Rennes, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France (Co-PI)**
 * [Théo Giraudet](#), PhD Student, Obeo and Univ. Rennes 1, France
 * [Gwendal Jouneaux](https://www.gwendal-jouneaux.fr/), PhD Student, Inria, France
