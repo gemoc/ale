@@ -15,6 +15,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 * [Théo Giraudet](#), PhD Student, Obeo and Univ. Rennes 1, France
 * [Gwendal Jouneaux](https://www.gwendal-jouneaux.fr/), PhD Student, Inria, France
 * [Djamel E. Khelladi](http://people.irisa.fr/Djamel-Eddine.Khelladi/), Research Scientist, CNRS, France
+* [Quentin Perez](https://qperez.github.io/), Ass. Professor, Inria and INSA Rennes, France
 * [Chiara Relevat](#), PhD Student, Inria and Univ. Rennes 1, France
 * [Riemer van Rozen](https://www.cwi.nl/people/riemer-van-rozen), Post-doctoral researcher, CWI, The Netherlands
 * **[Tijs van der Storm](http://homepages.cwi.nl/~storm/), Professor, CWI, The Netherlands (Co-PI)**
