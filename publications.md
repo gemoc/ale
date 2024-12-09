@@ -29,6 +29,11 @@ Riemer van Rozen
 In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2023
 [preprint](https://github.com/vrozen/Cascade/blob/main/Doc/Cascade_SLE2023.pdf)
 
+**Semantics Engineering with Concrete Syntax**
+Tijs van der Storm
+In *Eelco Visser Commemorative Symposium 2023: 29:1-29:11*
+[publication](https://doi.org/10.4230/OASIcs.EVCS.2023.29)
+
 **Game Engine Wizardry for Programming Mischief**
 Riemer van Rozen
 In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2023
