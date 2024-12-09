@@ -4,6 +4,18 @@ title: Publications
 permalink: publications.html
 order: 3
 ---
+
+**LiveRec: Prototyping Probes by Framing Debug Protocols**
+Jean-Baptiste Döderlein, Riemer van Rozen, and Tijs van der Storm
+In: *The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article 16.*
+[publication](https://doi.org/10.22152/programming-journal.org/2024/8/16)
+
+**Schema Evolution in Interactive Programming Systems**
+Jonathan Edwards, Tomas Petricek, Tijs van der Storm, and Geoffrey Litt
+In: *The Art, Science, and Engineering of Programming, 2025, Vol. 9, Issue 1, Article 2.*
+[publication](https://doi.org/10.22152/programming-journal.org/2025/9/2)
+
+
 **There Is Only One Time in Software (Language) Engineering! (Keynote)**
 Benoît Combemale. In *Proceedings of the 17th ACM SIGPLAN International Conference on Software Language Engineering (SLE)*, 2024.
 
