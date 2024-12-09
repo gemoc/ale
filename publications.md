@@ -4,6 +4,9 @@ title: Publications
 permalink: publications.html
 order: 3
 ---
+**There Is Only One Time in Software (Language) Engineering! (Keynote)**
+Benoît Combemale. In *Proceedings of the 17th ACM SIGPLAN International Conference on Software Language Engineering (SLE)*, 2024.
+
 **Adaptive Structural Operational Semantics**
 Gwendal Jouneaux, Damian Frölich, Olivier Barais, Benoit Combemale, Gurvan Le Guernic, Gunter Mussbacher, L. Thomas van Binsbergen
 In *Proceedings of the International Conference on Software Language Engineering (SLE)*, 2023
