@@ -15,7 +15,7 @@ Paper at Software Language Engineering (SLE) 2024, Presented at SPLASH 2024. Chr
 Paper at Programming Abstractions and Interactive Notations, Tools, and Environments (GPCE) 2024, Presented at SPLASH 2024. Max Boksem, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1145/3689488.3689991) [Preprint](https://ltvanbinsbergen.nl/files/papers/paint2024.pdf)
 
 **iCoLa+: An extensible meta-language with support for exploratory language development**  
-Journal of Systems and Software, volume 211. Damian Frölich, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1016/j.jss.2024.111979)
+Journal of Systems and Software, volume 211. Damian Frölich, L. Thomas van Binsbergen. 2024. [DOI](https://doi.org/10.1016/j.jss.2024.111979)
 
 **Block-Based Platform for Defining Adaptation Rules for Automotive Systems**
 Luigi Altamirano, Mauricio Verano Merino, and Ion Barosan
