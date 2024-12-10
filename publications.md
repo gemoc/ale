@@ -5,6 +5,11 @@ permalink: publications.html
 order: 3
 ---
 
+**Block-Based Platform for Defining Adaptation Rules for Automotive Systems**
+Luigi Altamirano, Mauricio Verano Merino, and Ion Barosan
+In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2024
+[preprint](https://maveme.github.io/assets/pdfs/AHSL-PAINT-preprint.pdf)
+
 **LiveRec: Prototyping Probes by Framing Debug Protocols**
 Jean-Baptiste Döderlein, Riemer van Rozen, and Tijs van der Storm
 In: *The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article 16.*
