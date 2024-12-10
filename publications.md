@@ -5,6 +5,18 @@ permalink: publications.html
 order: 3
 ---
 
+**On the Soundness of Auto-completion Services for Dynamically Typed Languages.**
+Paper at Generative Programming: Concepts and Experiences (GPCE) 2024, Presented at SPLASH 2024. Damian Frölich, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1145/3689484.3690734) [Preprint](https://ltvanbinsbergen.nl/files/papers/gpce2024.pdf)
+
+**Cooperative Specification via Composition Control.**
+Paper at Software Language Engineering (SLE) 2024, Presented at SPLASH 2024. Christopher A. Esterhuyse, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1145/3687997.3695635) [Preprint](https://ltvanbinsbergen.nl/files/papers/sle2024.pdf)
+
+**Bridging Incremental Programming and Complex Software Development Environments.**
+Paper at Programming Abstractions and Interactive Notations, Tools, and Environments (GPCE) 2024, Presented at SPLASH 2024. Max Boksem, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1145/3689488.3689991) [Preprint](https://ltvanbinsbergen.nl/files/papers/paint2024.pdf)
+
+**iCoLa+: An extensible meta-language with support for exploratory language development**  
+Journal of Systems and Software, volume 211. Damian Frölich, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1016/j.jss.2024.111979)
+
 **Block-Based Platform for Defining Adaptation Rules for Automotive Systems**
 Luigi Altamirano, Mauricio Verano Merino, and Ion Barosan
 In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2024
