@@ -22,6 +22,11 @@ Luigi Altamirano, Mauricio Verano Merino, and Ion Barosan
 In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2024
 [preprint](https://maveme.github.io/assets/pdfs/AHSL-PAINT-preprint.pdf)
 
+**Advanced Game Engine Wizardry for Visual Programming Environments**
+Elisabeth Kletsko and Riemer van Rozen
+In *Proceedings of Programming Abstractions and Interactive Notations, Tools, and Environments (PAINT)*, 2024
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3689488.3689992)
+
 **LiveRec: Prototyping Probes by Framing Debug Protocols**
 Jean-Baptiste Döderlein, Riemer van Rozen, and Tijs van der Storm
 In: *The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article 16.*
@@ -31,7 +36,6 @@ In: *The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Ar
 Jonathan Edwards, Tomas Petricek, Tijs van der Storm, and Geoffrey Litt
 In: *The Art, Science, and Engineering of Programming, 2025, Vol. 9, Issue 1, Article 2.*
 [publication](https://doi.org/10.22152/programming-journal.org/2025/9/2)
-
 
 **There Is Only One Time in Software (Language) Engineering! (Keynote)**
 Benoît Combemale. In *Proceedings of the 17th ACM SIGPLAN International Conference on Software Language Engineering (SLE)*, 2024.
