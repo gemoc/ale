@@ -5,6 +5,14 @@ permalink: publications.html
 order: 3
 ---
 
+**PolyDebug: a Framework for Polyglot Debugging**
+Philémon Houdaille, Djamel Eddine Khelladi, Benoit Combemale, Gunter Mussbacher, Tijs van der Storm. In: The Art, Science, and Engineering of Programming. Volume 9 Issue 3, 2025. 
+[preprint](https://hal.science/hal-04906879v1/file/polyglot_dap_paper_preprint.pdf)
+
+
+**Polyglot software development: Wait, what?**
+Gunter Mussbacher, Benoit Combemale, Jörg Kienzle, Lola Burgueño, Antonio Garcia-Dominguez, Jean-Marc Jézéquel, Gwendal Jouneaux, Djamel-Eddine Khelladi, Sébastien Mosser, Corinne Pulgar, Houari Sahraoui, Maximilian Schiedermeier, Tijs van der Storm. In: IEEE Software, Volume: 41 Issue: 4, 2024. [DOI](https://doi.org/10.1109/MS.2023.3347875) 
+
 **On the Soundness of Auto-completion Services for Dynamically Typed Languages.**
 Paper at Generative Programming: Concepts and Experiences (GPCE) 2024, Presented at SPLASH 2024. Damian Frölich, L. Thomas van Binsbergen. [DOI](https://doi.org/10.1145/3689484.3690734) [Preprint](https://ltvanbinsbergen.nl/files/papers/gpce2024.pdf)
 
