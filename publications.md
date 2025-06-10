@@ -5,10 +5,13 @@ permalink: publications.html
 order: 3
 ---
 
+**Live Game Design:: Prototyping at the Speed of Play**
+Riemer van Rozen. 
+In: Proceedings of the International Conference on the Foundations of Digital Games, FDG 2025. ACM, 2025. [DOI](https://doi.org/10.1145/3723498.3723726)
+
 **PolyDebug: a Framework for Polyglot Debugging**
 Philémon Houdaille, Djamel Eddine Khelladi, Benoit Combemale, Gunter Mussbacher, Tijs van der Storm. In: The Art, Science, and Engineering of Programming. Volume 9 Issue 3, 2025. 
 [preprint](https://hal.science/hal-04906879v1/file/polyglot_dap_paper_preprint.pdf)
-
 
 **Polyglot software development: Wait, what?**
 Gunter Mussbacher, Benoit Combemale, Jörg Kienzle, Lola Burgueño, Antonio Garcia-Dominguez, Jean-Marc Jézéquel, Gwendal Jouneaux, Djamel-Eddine Khelladi, Sébastien Mosser, Corinne Pulgar, Houari Sahraoui, Maximilian Schiedermeier, Tijs van der Storm. In: IEEE Software, Volume: 41 Issue: 4, 2024. [DOI](https://doi.org/10.1109/MS.2023.3347875) 
