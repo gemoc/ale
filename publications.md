@@ -4,6 +4,15 @@ title: Publications
 permalink: publications.html
 order: 3
 ---
+**Piloting Copilot, Codex, and StarCoder2: Hot temperature, cold prompts, or black magic?**
+Jean-Baptiste Döderlein, Nguessan Hermann Kouadio, Mathieu Acher, Djamel Eddine Khelladi, Benoît Combemale.
+In: J. Syst. Softw. 230: 112562 (2025)
+[preprint](https://arxiv.org/abs/2210.14699)
+
+**Augmenting graphical modeling workbenches with semantic-aware interactive features**
+Théo Giraudet, Arnaud Blouin, Benoît Combemale, Mélanie Bats, Pierre-Charles David
+In: Proc. ACM Hum. Comput. Interact. 9(4): 1-29 (2025)
+[preprint](https://inria.hal.science/hal-04931045)
 
 **Live Game Design:: Prototyping at the Speed of Play**
 Riemer van Rozen. 
