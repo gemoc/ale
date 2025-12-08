@@ -17,6 +17,7 @@ order: 2
 
 ## Plenary ALE meetings
 
+- November 13-14, 2025: ALE Seminar 2025 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/25-11-meetInRennes))
 - December 9-11, 2024: ALE Seminar 2024 at Inria Rennes, FR ([program](#))
 - December 18-19, 2023: ALE Seminar 2023 at Inria Rennes, FR ([program](#))
 - May 23-25, 2022: ALE Seminar 2022 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/22-05-meetInRennes))
@@ -30,6 +31,8 @@ order: 2
 
 ## Visits CWI & Inria
 
+-	November-Demcember, 2025: Visit of Jean-Baptiste Doderlein at CWI
+- October 27-28, 2025: Visit of Tijs v. d. Storm at Inria (joint with ECSS Conference)
 -	November 13-15, 2023: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
 -	September 12-14, 2023: Visit of Benoit Combemale at CWI
 -	October 16-21, 2019: Visit of Gwendal Jouneaux at CWI
