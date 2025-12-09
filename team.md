@@ -13,6 +13,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 * [Arnaud Blouin](https://people.irisa.fr/Arnaud.Blouin/), Ass. Professor, Inria and INSA Rennes, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France (Co-PI)**
 * [Jean-Baptiste Doderlein](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/), PhD Student, ENS & Univ. Rennes, France
+* [Philemon Houdaille](#), PhD Student, CNRS, France
 * [Théo Giraudet](https://blog.obeosoft.com/blogger/tgiraudet), PhD Student, Obeo and Univ. Rennes 1, France
 * [Djamel E. Khelladi](http://people.irisa.fr/Djamel-Eddine.Khelladi/), Research Scientist, CNRS, France
 * [Quentin Perez](https://qperez.github.io/), Ass. Professor, Inria and INSA Rennes, France
