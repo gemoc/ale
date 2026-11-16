@@ -12,11 +12,13 @@ order: 2
 
 ## Open Workshops
 
+-	December 1, 2026: workshop on live, exploratory, and polyglot programming at Inria Rennes, FR
 -	December 6-7, 2018: Workshop on tradeoff analysis at Inria Rennes, FR
 - June 11, 2018: [Workshop on Live Modeling (LIVE'18)](http://gemoc.org/ale/live18) at ENSEEIHT, FR
 
 ## Plenary ALE meetings
 
+- December 2-3, 2026: ALE Seminar 2026 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/26-12-meetInRennes))
 - November 13-14, 2025: ALE Seminar 2025 at Inria Rennes, FR ([program](https://github.com/gemoc/ale-shared/blob/master/meetings/25-11-meetInRennes))
 - December 9-11, 2024: ALE Seminar 2024 at Inria Rennes, FR ([program](#))
 - December 18-19, 2023: ALE Seminar 2023 at Inria Rennes, FR ([program](#))
@@ -31,7 +33,8 @@ order: 2
 
 ## Visits CWI & Inria
 
--	November-Demcember, 2025: Visit of Jean-Baptiste Doderlein at CWI
+-	September-October, 2026: Visit of Jean-Baptiste Doderlein at CWI
+-	November-December, 2025: Visit of Jean-Baptiste Doderlein at CWI
 - October 27-28, 2025: Visit of Tijs v. d. Storm at Inria (joint with ECSS Conference)
 -	November 13-15, 2023: Visit of Benoit Combemale at CWI (joint with LangDev Meeting)
 -	September 12-14, 2023: Visit of Benoit Combemale at CWI
