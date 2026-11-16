@@ -10,6 +10,7 @@ the [SWAT team](https://www.cwi.nl/research-groups/software-analysis-and-transfo
 
 * [Mathieu Acher](https://mathieuacher.com/), Professor, Inria and INSA Rennes, France
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
+* [Valentin Bourcier](https://bourcier.fr/en/), Post-doctoral researcher, Inria, France
 * [Arnaud Blouin](https://people.irisa.fr/Arnaud.Blouin/), Ass. Professor, Inria and INSA Rennes, France
 * **[Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France (Co-PI)**
 * [Jean-Baptiste Doderlein](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/), PhD Student, ENS & Univ. Rennes, France
